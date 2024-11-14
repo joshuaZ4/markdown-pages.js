@@ -1,5 +1,7 @@
 
 ![markdown logo](assets/images/mdp.svg)
+# Poveznice
+- [markdown](?page=markdown)
 
 # markdown-pages.js - _simple Markdown-based static sites, without the generator_
 
